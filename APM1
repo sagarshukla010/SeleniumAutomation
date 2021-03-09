@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-11-18T18:19:19</date>
+  <millis>1574081359781</millis>
+  <sequence>1</sequence>
+  <logger>src</logger>
+  <level>INFO</level>
+  <class>test.APMTesting</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>No of cols are : 13</message>
+</record>
+<record>
+  <date>2019-11-18T18:19:19</date>
+  <millis>1574081359816</millis>
+  <sequence>2</sequence>
+  <logger>src</logger>
+  <level>INFO</level>
+  <class>test.APMTesting</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>No of rows are : 12</message>
+</record>
+<record>
+  <date>2019-11-18T18:19:28</date>
+  <millis>1574081368899</millis>
+  <sequence>3</sequence>
+  <logger>src</logger>
+  <level>INFO</level>
+  <class>test.APMTesting</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>File Written Successfully</message>
+</record>
+</log>
